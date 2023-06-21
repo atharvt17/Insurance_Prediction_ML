@@ -1,4 +1,3 @@
-```markdown
 # Health Insurance Cost Prediction
 
 This is a web application that predicts health insurance costs based on various factors such as age, sex, BMI, number of children, smoking habits, and region. It utilizes a machine learning model trained on the provided dataset to make accurate predictions.
