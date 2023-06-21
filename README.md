@@ -47,6 +47,7 @@ pip install -r requirements.txt
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to explore the code and modify it according to your needs. If you encounter any issues or have suggestions for improvement, please create an issue on the repository.
+
 ```
 
 In the "Dataset and Model" section, make sure to mention the specific file names and their locations in the folders.
