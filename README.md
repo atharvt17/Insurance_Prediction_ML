@@ -51,7 +51,7 @@ This repository has the following structure:
 └── requirements.txt
 ```
 
-- `app.py`: The main script that runs the web application.
+- `App/app.py`: The main script that runs the web application.
 - `dataset/insurance.csv`: The dataset used for training the machine learning model.
 - `ML Model/insurance_pred`: The trained machine learning model.
 - `README.md`: The file you are currently reading.
@@ -65,9 +65,7 @@ To run this web application locally, you need to have the following dependencies
 
 - joblib==1.2.0
 - streamlit==1.23.1
-- scikit
-
--learn
+- scikit-learn
 - pillow
 
 You can install these dependencies by running the following command:
